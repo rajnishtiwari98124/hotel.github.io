@@ -25,4 +25,4 @@ The home section talks about the history of the hotel and the facilities it prov
 
 - The project is a part of the learning from [Brad Traversy](https://github.com/bradtraversy)'s course on Udemy. The idea credit is his. I have understood the concepts and learned them by building this on my own with a bare minimum reference of source code (only when my efforts couldn't clear the roadblock). The way of execution is modified as per my viewpoint whenever is necessary.
 
-- [Course Completion Certificate](https://www.udemy.com/certificate/UC-f1857a3d-62ea-4e0d-9d9e-2f83a9eebb51/).
+
